@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 OCT 2019 09:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 APR 2020 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,15 +740,15 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 13.
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 13.
+(Font)              scaled to size 10.0pt on input line 14.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 13.
+(Font)              scaled to size 9.0pt on input line 14.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 39.
+(Font)              scaled to size 10.0pt on input line 40.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 )
 LaTeX Font Info:    Try loading font information for OMS+lato-TLF on input line 87.
 LaTeX Font Info:    No file OMSlato-TLF.fd. on input line 87.
@@ -771,13 +771,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  24605 strings out of 492616
  497989 string characters out of 6129482
- 942514 words of memory out of 5000000
+ 943514 words of memory out of 5000000
  28138 multiletter control sequences out of 15000+600000
  316897 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,87p,1157b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on /Users/leo/Developer/resume/main.pdf (1 page, 171472 bytes).
+Output written on /Users/leo/Developer/resume/main.pdf (1 page, 171654 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

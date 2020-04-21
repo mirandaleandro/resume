@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1571845445 "main.bcf" "main.bbl" "main" 1571845535
-  "main.bcf" 1571845453 91075 79106efbc040b00b07a30d726d876c83 "pdflatex"
+["biber main"] 1587442703 "main.bcf" "main.bbl" "main" 1587442963
+  "main.bcf" 1587442943 91075 79106efbc040b00b07a30d726d876c83 "pdflatex"
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1571845452 "/Users/leo/Developer/resume/main.tex" "/Users/leo/Developer/resume/main.pdf" "main" 1571845535
-  "/Users/leo/Developer/resume/main.aux" 1571845453 421 848de775334b5a66eb7655a440ba87f4 ""
-  "/Users/leo/Developer/resume/main.tex" 1568217530 5142 32e66cd8fb01cb97e6a4b4fd50c5437b ""
+  "main.bbl"
+["pdflatex"] 1587442942 "/Users/leo/Developer/resume/main.tex" "/Users/leo/Developer/resume/main.pdf" "main" 1587442963
+  "/Users/leo/Developer/resume/main.aux" 1587442943 421 848de775334b5a66eb7655a440ba87f4 ""
+  "/Users/leo/Developer/resume/main.tex" 1587442963 5270 3f86216ffb5597b70be4f4ff96b60408 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc" 1508701834 2835 70412bf48ba77b06ca36654dedf1b299 ""
@@ -167,16 +167,16 @@
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "altacv.cls" 1568217422 8525 a1aad073cad02a657525fece9773f9b7 ""
   "avatar.jpg" 1567486628 31977 8c6c84f2bcc255d0c50899ccda96a700 ""
-  "main.aux" 1571845453 421 848de775334b5a66eb7655a440ba87f4 "pdflatex"
-  "main.bbl" 1571845451 466 d461c786d5ba60caa26aa3f363275b19 "biber main"
-  "main.run.xml" 1571845453 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
-  "main.tex" 1568217530 5142 32e66cd8fb01cb97e6a4b4fd50c5437b ""
-  "page1sidebar.tex" 1571844856 1166 39fc871a10236e49969814806eeaf28c ""
+  "main.aux" 1587442943 421 848de775334b5a66eb7655a440ba87f4 "pdflatex"
+  "main.bbl" 1587442704 466 d461c786d5ba60caa26aa3f363275b19 "biber main"
+  "main.run.xml" 1587442943 2307 8845b0ade2d45e62d45995dec6ec4831 "pdflatex"
+  "main.tex" 1587442963 5270 3f86216ffb5597b70be4f4ff96b60408 ""
+  "page1sidebar.tex" 1587442837 1185 216101e85707d9a6ae628a6e970a6fe1 ""
   (generated)
-  "main.aux"
-  "main.run.xml"
-  "main.bcf"
-  "/Users/leo/Developer/resume/main.pdf"
-  "main.log"
   "/Users/leo/Developer/resume/main.log"
+  "/Users/leo/Developer/resume/main.pdf"
+  "main.run.xml"
+  "main.aux"
   "main.pdf"
+  "main.bcf"
+  "main.log"
